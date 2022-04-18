@@ -21,7 +21,7 @@ function App() {
   }
 
   function bubbleSort(){
-    console.log("buble");
+    console.log("bubble");
   }
 
   return (
